@@ -1,5 +1,9 @@
-C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\Parking.java
+C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\concrete\Parking.java
+C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\interface_\SpotHero.java
 C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\client\ParkingClient.java
-C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\chase_bank\client\PracticePowerOf2Client.java
-C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\Rate.java
-C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\chase_bank\PracticePowerOf2.java
+C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\interface_\Rate.java
+C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\concrete\JsonFile.java
+C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\concrete\ClientInput.java
+C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\concrete\ParkingInfo.java
+C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\concrete\ParkingResult.java
+C:\Users\Anthony\Documents\Programming\Code\Java-Projects\InterviewChallenge\src\main\java\spot_hero\concrete\ParkingRate.java
