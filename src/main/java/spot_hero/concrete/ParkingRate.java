@@ -24,7 +24,8 @@ public class ParkingRate implements Rate {
     }
 
     public boolean isTime(LocalDateTime arrival, LocalDateTime depart){
-       return ( (arrival.toLocalTime().isAfter(startTime) || arrival.toLocalTime().equals(startTime)) && (depart.toLocalTime().isBefore(endTime) || depart.toLocalTime().equals(endTime)) ) ;
+       return ( (arrival.toLocalTime().isAfter(startTime) || arrival.toLocalTime().equals(startTime))
+               && (depart.toLocalTime().isBefore(endTime) || depart.toLocalTime().equals(endTime)) ) ;
     }
 
 
